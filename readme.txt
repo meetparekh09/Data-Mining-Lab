@@ -1,0 +1,2 @@
+This was a project provided by instructor as a part of lab work for Data Mining course during my undergraduate studies. In this project I performed preprocessing to get the data in the clean format, then went to do feature engineering using principal component analysis to get the right set of features.
+I then clustered the data using K-Means clustering where I determined the optimal number of clusters i.e. K by elbow analysis. Then, I used this labels to train the classifier on the same.
